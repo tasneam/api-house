@@ -148,16 +148,6 @@
       "email": "tasnim@gmail.com",
       "password": "tasnim",
       "phone": "0595092662",
-      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=600"
-    },
-
-    { 
-      "id": 2,
-      "username": "Alaa",
-      "email": "alaa99702@gmail.com",
-      "password": "Alaa123456789",
-      "phone": "0592813281",
-      "image": "https://images.pexels.com/photos/712513/pexels-photo-712513.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
   ]
 }
